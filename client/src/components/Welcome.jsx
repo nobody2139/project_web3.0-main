@@ -61,9 +61,9 @@ const Welcome = () => {
               <div>
                 {currentAccount?
                 (<div><p className="text-white font-semibold text-lg mt-1">
-                  Ethereum Address
+                  Your Wallet Address
                 </p>
-                <p className="text-black font-light text-sm">
+                <p className="text-white font-bold text-10m">
                   {shortenAddress(currentAccount)}
                 </p></div>):<div></div>
                 }

@@ -43,7 +43,7 @@ body {
 }
 
 .blue-glassmorphism {
-  background: rgba(132, 75, 224, 0.4);
+  background: rgb(151 138 171 / 40%);
   border-radius: 16px;
   box-shadow: 0 4px 30px rgba(0, 0, 0, 0.2);
   backdrop-filter: blur(5px);
